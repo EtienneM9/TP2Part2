@@ -57,5 +57,27 @@ https://flagcdn.com/[size]/[country-code].png
 
 Cette API offre un accès simple aux drapeaux de haute qualité pour tous les pays, avec différentes tailles disponibles.
 
-## Screen application
+## Screen applicatio
 
+### Acceuil de l'application avec deux bouton pour tester la s=version liste et la version fragment
+
+<img src="images_readme/app2acc.png" alt="acc" width="45%" />
+
+
+
+### Liste et détail du pays avec une RecyclerList
+
+
+<p align="center">
+  <img src="images_readme/app2List.png" alt="acc" width="45%" />
+  <img src="images_readme/app2listD.png" alt="close" width="45%" />
+</p>
+
+
+
+### Liste et détail du pays avec des fragment (ici bottomsheetfragmet)
+
+<p align="center">
+  <img src="images_readme/app2fragList.png" alt="acc" width="45%" />
+  <img src="images_readme/app2fragD.png" alt="close" width="45%" />
+</p>
